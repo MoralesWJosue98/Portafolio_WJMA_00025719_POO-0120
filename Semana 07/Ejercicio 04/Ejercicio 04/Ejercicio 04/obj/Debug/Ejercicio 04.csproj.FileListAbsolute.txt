@@ -1,0 +1,6 @@
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio_04.exe
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio_04.pdb
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.csprojAssemblyReference.cache
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio_04.exe
+C:\Users\Wilfredo Josué\Documents\Portafolio_WJMA_00025719_POO-0120\Semana 07\Ejercicio 04\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio_04.pdb
