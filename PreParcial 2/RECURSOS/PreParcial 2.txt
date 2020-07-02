@@ -1,0 +1,10 @@
+Escogí el Patrón Proxy.
+
+Lo elegí porque me pareció que era el más apto para usarlo en alguno de los programas, quería brindarle protección
+a las consultas hechas en la base de datos, y me pareció que este patrón brindaba eso.
+El usuario no se esta comunicando con el objeto, se comunica con el proxy.
+
+Para implementarlo tuve que crear una nueva clase para el Proxy, y dentro de ella varías interfaces, para cambiarlos 
+o utilizarlos cuando sea necesario.
+Dentro de esta clase del proxy, esta también el sujeto, que es la clase que vamos a utilizar una vez el proxy lo permita.
+Y también el Proxy, que es la clase que controla el acceso al sujeto.
